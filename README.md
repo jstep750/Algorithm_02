@@ -1,7 +1,7 @@
 # Algorithm_02
 
 ## MODEL 1 : 3 Layers with 1 Convolution layer
-- **perform test with test data**
+- **test loss and accuracy**
 ![image](https://user-images.githubusercontent.com/48945057/121725641-7f4dd300-cb24-11eb-892e-6b62af0b003c.png)
 
 - **plot images and probability**
