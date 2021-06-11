@@ -45,13 +45,13 @@
   ![image](https://user-images.githubusercontent.com/48945057/121729898-f20d7d00-cb29-11eb-8dea-b4dc27c66e19.png)
 
 - **Training loss and accuracy**
-![image](https://user-images.githubusercontent.com/48945057/121726012-f08d8600-cb24-11eb-9d3d-22dcba97e4e5.png)
+![image](https://user-images.githubusercontent.com/48945057/121732736-8b8a5e00-cb2d-11eb-8b66-e9181b5d9277.png)
 
 - **Test loss and accuracy**
-![image](https://user-images.githubusercontent.com/48945057/121725641-7f4dd300-cb24-11eb-892e-6b62af0b003c.png)
+![image](https://user-images.githubusercontent.com/48945057/121732820-a65cd280-cb2d-11eb-846a-f59194c88431.png)
 
 - **Plot success images and probability**
-![plot_images_model1](https://user-images.githubusercontent.com/48945057/121725721-98568400-cb24-11eb-8e45-a2d7c4c7cb66.png)
+![image](https://user-images.githubusercontent.com/48945057/121732871-b674b200-cb2d-11eb-97e9-8a110afa3329.png)
 
 - **Plot error**
-![plot_error_model1](https://user-images.githubusercontent.com/48945057/121724446-dd79b680-cb22-11eb-86af-c91a64382422.png)
+![plot_error_model3](https://user-images.githubusercontent.com/48945057/121732943-d015f980-cb2d-11eb-9074-1ec8738332dd.png)
