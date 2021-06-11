@@ -3,8 +3,7 @@
 ## MODEL 1 : 3 Layers with 1 Convolution layer
 
 - **Model 1 code**
-
-![image](https://user-images.githubusercontent.com/48945057/121729552-9511c700-cb29-11eb-9eb6-21cb544f68e7.png)
+  ![image](https://user-images.githubusercontent.com/48945057/121729552-9511c700-cb29-11eb-9eb6-21cb544f68e7.png)
 
 - **Training loss and accuracy**
 ![image](https://user-images.githubusercontent.com/48945057/121726012-f08d8600-cb24-11eb-9d3d-22dcba97e4e5.png)
@@ -22,8 +21,7 @@
 ## MODEL 2 : 5 Layers with 2 Convolution layer
 
 - **Model 2 code**
-
-![image](https://user-images.githubusercontent.com/48945057/121729842-de621680-cb29-11eb-95d5-8e7f5b67be0d.png)
+  ![image](https://user-images.githubusercontent.com/48945057/121729842-de621680-cb29-11eb-95d5-8e7f5b67be0d.png)
 
 - **Training loss and accuracy**
 ![image](https://user-images.githubusercontent.com/48945057/121728764-a6a69f00-cb28-11eb-8615-d885bd8fd23e.png)
@@ -41,8 +39,7 @@
 ## MODEL 3 : 7 Layers with 4 Convolution layer
 
 - **Model 3 code**
-
-![image](https://user-images.githubusercontent.com/48945057/121729898-f20d7d00-cb29-11eb-8dea-b4dc27c66e19.png)
+  ![image](https://user-images.githubusercontent.com/48945057/121729898-f20d7d00-cb29-11eb-8dea-b4dc27c66e19.png)
 
 - **Training loss and accuracy**
 ![image](https://user-images.githubusercontent.com/48945057/121726012-f08d8600-cb24-11eb-9d3d-22dcba97e4e5.png)
