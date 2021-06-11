@@ -21,6 +21,7 @@
 ## MODEL 2 : 5 Layers with 2 Convolution layer
 
 - **Model 2 code**
+  
   ![image](https://user-images.githubusercontent.com/48945057/121729842-de621680-cb29-11eb-95d5-8e7f5b67be0d.png)
 
 - **Training loss and accuracy**
@@ -39,6 +40,7 @@
 ## MODEL 3 : 7 Layers with 4 Convolution layer
 
 - **Model 3 code**
+  
   ![image](https://user-images.githubusercontent.com/48945057/121729898-f20d7d00-cb29-11eb-8dea-b4dc27c66e19.png)
 
 - **Training loss and accuracy**
